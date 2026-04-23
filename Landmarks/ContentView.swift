@@ -16,8 +16,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-            Text("Bienvenida Diany!")
-      
+        Text("Turtle Rock")
+                    .font(.title)
+                    .foregroundColor(.green)
     }
 }
 
