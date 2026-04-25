@@ -13,10 +13,7 @@
 //Reto de aprendizaje 2. App Mobile: Landmarks
 //
 
-
-
 import SwiftUI
-
 
 struct LandmarkDetail: View {
     
@@ -64,5 +61,5 @@ struct LandmarkDetail: View {
 }
 
 #Preview {
-    LandmarkDetail(landmark: landmarks[0])
+    LandmarkDetail(landmark: ModelData().landmarks[0])
 }
