@@ -15,6 +15,7 @@
 		7EE694B32F9C2C4B009D7AF1 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE694B22F9C2C4B009D7AF1 /* ModelData.swift */; };
 		7EE694B92F9C31EB009D7AF1 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE694B82F9C31EB009D7AF1 /* LandmarkRow.swift */; };
 		7EE694BB2F9C3D91009D7AF1 /* LandmarkList.swift  .swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE694BA2F9C3D91009D7AF1 /* LandmarkList.swift  .swift */; };
+		7EE694BD2F9C5493009D7AF1 /* Detail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EE694BC2F9C5493009D7AF1 /* Detail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		7EE694B22F9C2C4B009D7AF1 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		7EE694B82F9C31EB009D7AF1 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = SOURCE_ROOT; };
 		7EE694BA2F9C3D91009D7AF1 /* LandmarkList.swift  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LandmarkList.swift  .swift"; sourceTree = "<group>"; };
+		7EE694BC2F9C5493009D7AF1 /* Detail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Detail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -127,6 +129,7 @@
 			children = (
 				7EE694B82F9C31EB009D7AF1 /* LandmarkRow.swift */,
 				7EE694BA2F9C3D91009D7AF1 /* LandmarkList.swift  .swift */,
+				7EE694BC2F9C5493009D7AF1 /* Detail.swift */,
 				7EE694842F9BE02F009D7AF1 /* ContentView.swift */,
 				7EE694862F9BE02F009D7AF1 /* MapView.swift */,
 				7EE694872F9BE02F009D7AF1 /* CircleImage.swift */,
@@ -289,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7EE694882F9BE02F009D7AF1 /* ContentView.swift in Sources */,
+				7EE694BD2F9C5493009D7AF1 /* Detail.swift in Sources */,
 				7EE6948A2F9BE02F009D7AF1 /* MapView.swift in Sources */,
 				7EE6948B2F9BE02F009D7AF1 /* CircleImage.swift in Sources */,
 				7EE694B12F9C29B8009D7AF1 /* Landmark.swift in Sources */,
